@@ -1,0 +1,3 @@
+for: sirve para crear un bucle donde ya determino una variable, una condición de cuando va a frenar el bucle y de qué manera va a ir cambiando la variable del bucle. De esta manera podemos llegar a un resultado escribiendo menos código, más rápido y agil.
+&&, ||, !: estos signos me sirve para generar condicionantes, de manera que si uso el && (y), va a ser true solo si todas las condiciones son verdaderas, si uso el || (o) va a ser true si al menos una de las condiciones es true.
+Y el ! sirve para cambiar un valor de true a false o viceversa.
