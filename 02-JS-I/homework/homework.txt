@@ -1,0 +1,5 @@
+Variables: son como espacios, memorias donde puedo guardar algo que despues voy a usar nuevamente, tienen su propio nombre y se les pueden asignar un valor.
+Strings: una variable de tipo "strings", es una variable que almacena una cadena de caracteres (palabra).
+Funciones (argumentos, return): Las funciones pueden tener argumentos o no, estos sirven para ingresar una variable dentro de la función, y el return sirve para aclarar que valor necesito que devuelva esta función cuando es llamada.
+Declaraciones if: Los if me sirven para crear condiciones, si se cumple cierta norma mi codigo va a ir por un camino y si no se cumple irá por otro. Puedo agregar varias condiciones distintas usando "else if" y "else".
+Valores booleanos (true, false): los valores booleanos me sirven para las variables cuales su valor va a ser "true" o "false".
