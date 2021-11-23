@@ -1,0 +1,2 @@
+Un Array me sirve para crear listas, cuadros. La misma acepta todo tipo de datos.
+Con el Array creado puedo seleccionar un elemento en particular, acceder a el y usarlo.
