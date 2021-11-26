@@ -1,0 +1,5 @@
+Objetos: un objeto es algo compuesto por una o mas propiedades. Todo JS está compuesto por objetos.
+Propiedades: son una asociación entre un nombre y un valor.
+Métodos: (o function) sirven para que al llamar al método me devuelva (return) una respuesta, ya sea un problema matemático o algo que cambió algún valor dentro de este método.
+Bucle for…in: un bucle for es un objeto que me sirve para repetir un código hasta cierto momento.
+Notación de puntos vs notación de corchetes: me sirven para acceder a las propiedades y métodos de un objeto.
