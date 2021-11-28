@@ -1,0 +1,2 @@
+prototype: todo objeto tiene su prototype, en el cual ya existe una funcion definida a la cual puedo acceder usarndo __PROTO__ 
+Constructors (de Clases): es un método por el cual puedo crear un nuevo objeto dentro de la clase.
