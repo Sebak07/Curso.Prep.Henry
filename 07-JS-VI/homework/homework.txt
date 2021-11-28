@@ -1,0 +1,1 @@
+Funciones Callback: se le llama así cuando una function es pasada como argumento a otra function.
