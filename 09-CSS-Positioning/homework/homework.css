@@ -1,38 +1,71 @@
-/*
+        /*
 Lección 3: Tarea de posicionamiento con CSS. Todo el trabajo debe hacerse en este archivo, por lo que si estás tocando cualquier otro
 archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 */
-
-/* Ejercicio 1: Centrar el texto en un span */
-
-/* Arrancaremos este ejercicio por vos: */
-#ejercicioUno {
-
-}
-
-
-/* Ejercicio 2: Posicionar el header */
-
-/* Acá va tu código */
-
-
-
-/* Ejercicio 3: */
-
-/* Acá va tu código */
-
-
-
-/* Ejercicio 4: */
-
-/* Acá va tu código */
-
-
-
-/* Ejercicio 5: */
-
-/* Acá va tu código */
-
-
-
-/* Ejercicio 6. */
+        /* Ejercicio 1: Centrar el texto en un span */
+        /* Arrancaremos este ejercicio por vos: */
+        
+        #ejercicioUno {
+            display: block;
+            text-align: center;
+        }
+        /* Ejercicio 2: Posicionar el header */
+        
+        #header {
+            display: none;
+        }
+        /* Acá va tu código */
+        /* Ejercicio 3: */
+        
+        #ejercicioTres {
+            position: relative;
+            margin: 100px 200px;
+        }
+        /* Acá va tu código */
+        /* Ejercicio 4: */
+        
+        #ejercicioCuatro {
+            display: flex;
+            position: fixed;
+            top: 0px;
+        }
+        /* Acá va tu código */
+        /* Ejercicio 5: */
+        
+        #ejercicioCinco {
+            display: inline-flex;
+            align-items: center;
+            flex-grow: 1;
+            justify-content: space-around;
+        }
+        /* Acá va tu código */
+        /* Ejercicio 6. */
+        
+        #ejercicioCinco {
+            flex-direction: row-reverse;
+        }
+        /*ejercicio 7*/
+        
+        #ejercicioSiete {
+            display: flex;
+            flex-direction: row-reverse;
+            flex-grow: 1;
+            align-items: center;
+        }
+        
+        #elementoUno {
+            align-self: start;
+            order: 2;
+        }
+        
+        #elementoDos {
+            align-self: flex-end;
+        }
+        
+        #elementoTres {
+            order: 3;
+        }
+        
+        #elementoCuatro {
+            align-self: end;
+        }
